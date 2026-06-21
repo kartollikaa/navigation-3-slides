@@ -1,5 +1,8 @@
 # macOS
 .DS_Store
 
+# Office temporary/lock files
+~$*
+
 # Nested showcase project — lives at github.com/kartollikaa/nav3-showcase
 nav3-showcase-repo/
