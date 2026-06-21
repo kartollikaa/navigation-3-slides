@@ -3,6 +3,8 @@
 Материалы внутреннего доклада для мобильных инженеров **Dodo Engineering**.
 Тема: Jetpack **Navigation 3** — основы и итеративная миграция с Navigation 2.
 
+> 🌐 **Слайды онлайн:** **https://kartollikaa.github.io/navigation-3-slides/**
+
 Доклад состоит из двух потоков:
 
 1. **Основы Nav3** — модель back stack, сцены, анимации, декораторы.
